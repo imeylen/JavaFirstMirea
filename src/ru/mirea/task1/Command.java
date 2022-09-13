@@ -6,3 +6,4 @@ public class Command {
             System.out.println(args[i]);
     }
 }
+
